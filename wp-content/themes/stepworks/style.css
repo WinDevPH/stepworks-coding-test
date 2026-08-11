@@ -1,0 +1,13 @@
+/*
+Theme Name: Stepworks Coding Test
+Theme URI: https://stepworks.com
+Author: Stepworks Candidate
+Description: Custom WordPress theme for the Stepworks web coding challenge — product landing page with ACF-editable content, mega menu, hero carousel, and GSAP animations.
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.7
+Requires PHP: 8.0
+Text Domain: stepworks
+*/
+
+/* Base styles live in assets/css/main.css */
