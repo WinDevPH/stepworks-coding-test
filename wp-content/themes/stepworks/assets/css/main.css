@@ -1092,19 +1092,18 @@ body.mobile-menu-open {
   margin-top: 2.5rem;
 }
 
-/* Footer — same width as hero (.container), flush bottom */
+/* Footer — same width as hero (.container) */
 .site-footer {
   background: var(--white);
   color: rgba(255, 255, 255, 0.92);
   padding: 0;
-  margin: 0;
+  margin: 0 0 var(--section-space);
 }
 
 .site-footer__frame {
   background: var(--brand);
   padding-top: clamp(2.75rem, 5vw, 3.75rem);
   padding-bottom: 0;
-  margin-bottom: 0;
 }
 
 .site-footer__main {
@@ -1745,12 +1744,12 @@ body.mobile-menu-open {
     justify-content: center;
   }
 
-  /* ---- Footer mobile: same full width as hero, flush bottom ---- */
+  /* ---- Footer mobile: same full width as hero ---- */
   .site-footer {
     width: 100%;
     max-width: none;
     padding: 0;
-    margin: 0;
+    margin: 0 0 1.5rem;
     background: var(--white);
   }
 

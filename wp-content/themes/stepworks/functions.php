@@ -9,7 +9,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'STEPWORKS_VERSION', '1.4.3' );
+define( 'STEPWORKS_VERSION', '1.4.4' );
 define( 'STEPWORKS_DIR', get_template_directory() );
 define( 'STEPWORKS_URI', get_template_directory_uri() );
 
